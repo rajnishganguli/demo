@@ -1,2 +1,2 @@
 # demo
-A spring boot app using SPring security and JWT
+A demo app using Spring boot, Spring security and JWT.
